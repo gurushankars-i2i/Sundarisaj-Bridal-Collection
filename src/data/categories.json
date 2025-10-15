@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Temple Jewelry",
+    "description": "✨ Divine designs meet bridal dreams! Ornate temple jewelry inspired by South Indian heritage, featuring Goddess Lakshmi with majestic elephants. Traditional temple architecture in stunning 22K gold. Where spirituality meets style! 🕉️",
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=800&q=80",
+    "slug": "temple-jewelry",
+    "isActive": true,
+    "displayOrder": 1,
+    "products": 5
+  },
+  {
+    "id": 2,
+    "name": "Kemp Jewellery",
+    "description": "💎 Pop of color, burst of tradition! Vibrant ruby and emerald kempu stones dancing in intricate gold settings with pearl accents. South Indian craftsmanship that's both heritage and haute couture! 🔥",
+    "image": "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?w=800&q=80",
+    "slug": "kemp-jewellery",
+    "isActive": true,
+    "displayOrder": 2,
+    "products": 5
+  },
+  {
+    "id": 3,
+    "name": "Antique/Nakshi Jewellery",
+    "description": "⏳ Timeless treasures for the modern bride! Burnished vintage finish with intricate Nakshi filigree and heritage motifs. Hand-engraved masterpieces that whisper stories of generations. Old-world charm, new-world appeal! 🎨",
+    "image": "https://images.unsplash.com/photo-1590536247665-802d5d77d8ae?w=800&q=80",
+    "slug": "antique-nakshi-jewellery",
+    "isActive": true,
+    "displayOrder": 3,
+    "products": 5
+  },
+  {
+    "id": 4,
+    "name": "Thalai Saman",
+    "description": "👑 Crown your bridal glory! Complete head ornament collections featuring Netti Chutti, sun-moon symbols, Rakkadi & Jadanagam. Traditional South Indian head jewelry that makes you royalty for the day! ✨",
+    "image": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=800&q=80",
+    "slug": "thalai-saman",
+    "isActive": true,
+    "displayOrder": 4,
+    "products": 5
+  },
+  {
+    "id": 5,
+    "name": "Waist and Arm Jewellery",
+    "description": "💃 Cinch that silhouette! Elegant Oddiyanum/Vaddanam waist chains and stunning Vanki armlets. Intricate gold work that enhances your bridal curves and adds warrior princess vibes! 🔥",
+    "image": "https://images.unsplash.com/photo-1617038322097-09a23bc26668?w=800&q=80",
+    "slug": "waist-arm-jewellery",
+    "isActive": true,
+    "displayOrder": 5,
+    "products": 5
+  },
+  {
+    "id": 6,
+    "name": "Necklaces",
+    "description": "💫 Layer it up! From iconic Kaasu Mala gold coin necklaces to multi-layered Harams and elegant chokers. Statement pieces that turn heads and steal hearts! Every neck deserves this level of extra! ✨",
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=800&q=80",
+    "slug": "necklaces",
+    "isActive": false,
+    "displayOrder": 6,
+    "products": 0
+  }
+]
