@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 1,
   "name": "sundarisaj-bridal-collection",
   "buildCommand": "npm run build",
   "outputDirectory": "build",
@@ -74,3 +74,4 @@
     "silent": true
   }
 }
+
